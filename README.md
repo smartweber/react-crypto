@@ -8,11 +8,9 @@ The portal app is now configured to connect to our Heroku staging environment AP
 
 ## Running Locally
 
-1. Clone [base repo](https://github.com/MaxosLLC/aboveboard-portals)
-2. `cd aboveboard-portals`
-3. `cp .env.example .env`
-4. `yarn`
-5. `yarn run start-dev`
+1. `cp .env.example .env`
+2. `yarn`
+3. `yarn run start-dev`
 
 ### Ethereum
 
